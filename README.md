@@ -117,5 +117,47 @@ don't use any reserved keywords
 getting data out:
 create table as select x from y where z = abc
 
+NIFI
+
+url = api call
+filename = wbc..
 
 
+Interest:
+productivity
+downtime, speed of game
+
+bacarrat optimal head count
+
+# players from card deals
+
+compliance and bias
+board dealer
+
+prating
+bet types -> segment
+
+/user/tss2/SEG/
+
+Database > seg
+
+
+
+angeleye
+ cammegh
+ headcount
+ s2_kc_com_allgame
+ s2_kc_com_denom
+ s2_kc_com_devgame
+ s2_kc_com_device
+ s2_kc_com_devicesubtype
+ s2_kc_com_devicetype
+ s2_kc_com_devtrans
+ s2_kc_com_gstbank
+ s2_kc_com_gsthost
+ s2_kc_com_gstzone
+ s2_kc_com_manufacturer
+ s2_kc_com_model
+ s2_kc_com_ptnrating
+ tabledetails
+ tabletransactions
